@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pKhFdb4rItiqrsNxoORPILVn99vZld1cPGTvXI+xXhE=",
+  "Source": "WebAPI_MongoCRUD",
+  "BasePath": "_content/WebAPI_MongoCRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_MongoCRUD", "WebAPI_MongoCRUD\WebAPI_MongoCRUD.csproj", "{F3E4FE70-3AAF-4D8F-A96D-A2B79FE9C915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E4FE70-3AAF-4D8F-A96D-A2B79FE9C915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E4FE70-3AAF-4D8F-A96D-A2B79FE9C915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E4FE70-3AAF-4D8F-A96D-A2B79FE9C915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E4FE70-3AAF-4D8F-A96D-A2B79FE9C915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593BB080-D7F0-49E6-BE9E-A67473FB6390}
+	EndGlobalSection
+EndGlobal
